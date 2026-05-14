@@ -88,13 +88,8 @@ p {
 }
 
 #button {
-  background-color: rgb(89, 98, 166);
-  color: white;
-  padding: 10px 15px;
-  border: none;
-  font-size: 16px;
+  color: rgb(89, 98, 166);
   margin-top: 20px;
-  border-radius: 10px;
 }
 #navButton {
   background-color: rgb(89, 98, 166);
